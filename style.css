@@ -466,6 +466,7 @@ body {
     } */
     .aboutme {
         flex-direction: column;
+        width: fit-content;
     }
     .aboutmephoto {
         margin-bottom: 15px;
@@ -516,6 +517,9 @@ body {
         width: fit-content;
         justify-content: center;
         align-items: center;
+    }
+    #testimonials {
+        width: fit-content;
     }
     #testimonial-boxes {
         flex-direction: column;
